@@ -9,6 +9,9 @@ Before joining Google I was an associate professor in the [Department of Compute
 ## Papers
 * Jianing Fang, Chuheng Hu, Nour Smaoui, Doug Carlson, Jayant Gupchup, Razvan Musaloiu-E., Chieh-Jan Mike Liang, Marcus Chang, Omprakash Gnawali, Tamas Budavari, Andreas Terzis, Katalin Szlavecz1, and Alexander S. Szalay. [Wireless Sensor Network for in situ Soil Moisture Monitoring](luyf-sensornets.pdf). Appeared in [Sensornets 2021](http://sensornets.org/)
 
+## Past Projects
+* [Life Under Your Feet](lyuf.md)
+
 ## Links
 
 <a href="https://twitter.com/aterzis">Follow me on Twitter.</a>
