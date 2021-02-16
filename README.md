@@ -1,6 +1,6 @@
 # Andreas Terzis
 
-![Andreas Terzis](photo.jpeg)
+![](photo.jpeg)
 
 I am a software engineer at [Google Research](https://research.google/) where I head a group working working on privacy and security for ML systems. 
 
