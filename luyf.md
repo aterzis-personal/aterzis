@@ -179,17 +179,16 @@ In general, our deployments met their key goals: they survived for long periods 
 reliably collecting large volumes of data. The data can be utilized for a variety of projects 
 from building hydrology models to identifying biological activity hotspots.
 
-
-## People
-Jianing Fang, Chuheng Hu, Nour Smaoui, Doug Carlson, Jayant Gupchup, Razvan Musaloiu-E., 
-Chieh-Jan Mike Liang, Marcus Chang, Omprakash Gnawali, Tamas Budavari, Andreas Terzis, 
-Katalin Szlavecz, and Alexander S. Szalay 
-
 ## Acknowledgements
 
 I want to personally thank [Alex Szalay](http://www.sdss.jhu.edu/~szalay/) and 
 [Kalalin Szlavecz](https://eps.jhu.edu/directory/katalin-szlavecz/) for their scientific, technical, and organizational
 leadership of Life Under Your Feet during the last 15 years. 
+
+Razvan Musaloiu-E. lead the first and second generation of WSN software with 
+support from Mike Liang. Jayant Gupchup developed the first data processing architecture and did
+many of the original analyses. Doug Carlson led the development of the third generation of WSN software
+with help from Marcus Chang. 
 
 Big thanks to Jianing and Chuheng for reviving the project and leading its fourth generation. 
 
