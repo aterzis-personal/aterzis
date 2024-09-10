@@ -7,7 +7,7 @@ I am a software engineer at [Google DeepMind](https://deepmind.google/) where I 
 Before joining Google I was an associate professor in the [Department of Computer Science](https://www.cs.jhu.edu) at the [Johns Hopkins University](https://www.jhu.edu/), where I headed the Hopkins InterNetworking Research (HiNRG) Group. I worked on computer networks with an emphasis on low-power and sensor networks.
 
 ## Papers
-* Jianing Fang, Chuheng Hu, Nour Smaoui, Doug Carlson, Jayant Gupchup, Razvan Musaloiu-E., Chieh-Jan Mike Liang, Marcus Chang, Omprakash Gnawali, Tamas Budavari, Andreas Terzis, Katalin Szlavecz1, and Alexander S. Szalay. [Wireless Sensor Network for in situ Soil Moisture Monitoring](luyf-sensornets.pdf). Appeared in [Sensornets 2021](http://sensornets.org/)
+* Jianing Fang, Chuheng Hu, Nour Smaoui, Doug Carlson, Jayant Gupchup, Razvan Musaloiu-E., Chieh-Jan Mike Liang, Marcus Chang, Omprakash Gnawali, Tamas Budavari, Andreas Terzis, Katalin Szlavecz, and Alexander S. Szalay. [Wireless Sensor Network for in situ Soil Moisture Monitoring](luyf-sensornets.pdf). Appeared in [Sensornets 2021](http://sensornets.org/)
 
 ## Links
 
