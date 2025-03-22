@@ -2,7 +2,7 @@
 
 ![](photo.jpeg)
 
-I am a software engineer at [Google DeepMind](https://deepmind.google/) where I head a group working on privacy and security for ML systems. 
+I lead the Security and Privacy Research team at [Google DeepMind](https://deepmind.google/), working on privacy and security for ML systems. 
 
 Before joining Google I was an associate professor in the [Department of Computer Science](https://www.cs.jhu.edu) at the [Johns Hopkins University](https://www.jhu.edu/), where I headed the Hopkins InterNetworking Research (HiNRG) Group. I worked on computer networks with an emphasis on low-power and sensor networks.
 
