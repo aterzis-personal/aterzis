@@ -12,7 +12,4 @@ Before joining Google I was an associate professor in the [Department of Compute
 ## Links
 
 <a href="https://twitter.com/aterzis">Follow me on Twitter.</a>
-
 <a href="http://www.linkedin.com/pub/andreas-terzis/1/537/239">LinkedIn profile.</a>
-
-<a href="https://scholar.google.com/citations?user=NcIqQ88AAAAJ&hl=en">Google Scholar page.</a>
