@@ -2,7 +2,9 @@
 
 ![](photo.jpeg)
 
-I lead the Security and Privacy Research team at [Google DeepMind](https://deepmind.google/), working on privacy and security for ML systems. 
+I am a Member of Technical Staff/Manager in the Safeguards team at Anthropic. 
+
+Before that, I led the Security and Privacy Research team at [Google DeepMind](https://deepmind.google/), working on privacy and security for ML systems. 
 
 Before joining Google I was an associate professor in the [Department of Computer Science](https://www.cs.jhu.edu) at the [Johns Hopkins University](https://www.jhu.edu/), where I headed the Hopkins InterNetworking Research (HiNRG) Group. I worked on computer networks with an emphasis on low-power and sensor networks.
 
@@ -11,7 +13,7 @@ Before joining Google I was an associate professor in the [Department of Compute
 * <a href="https://research.google/blog/protecting-users-with-differentially-private-synthetic-training-data/">Protecting users with differentially private synthetic training data.</a>
 
 ## Papers
-* <a href="https://scholar.google.com/citations?user=NcIqQ88AAAAJ&hl=en">Google Scholar page.</a>
+* <a href="https://scholar.google.com/citations?user=kgvqq-8AAAAJ">Google Scholar page.</a>
 
 ## Links
 
