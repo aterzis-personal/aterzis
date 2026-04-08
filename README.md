@@ -2,15 +2,15 @@
 
 ![](photo.jpeg)
 
-I am a Member of Technical Staff/Manager in the Safeguards team at Anthropic. 
+I am a Member of Technical Staff/Manager in the Safeguards team at [Anthropic](https://www.anthropic.com/). 
 
 Before that, I led the Security and Privacy Research team at [Google DeepMind](https://deepmind.google/), working on privacy and security for ML systems. 
 
 Before joining Google I was an associate professor in the [Department of Computer Science](https://www.cs.jhu.edu) at the [Johns Hopkins University](https://www.jhu.edu/), where I headed the Hopkins InterNetworking Research (HiNRG) Group. I worked on computer networks with an emphasis on low-power and sensor networks.
 
-## Recent Projects
-* <a href="https://security.googleblog.com/2025/01/how-we-estimate-risk-from-prompt.html">How we estimate the risk from prompt injection attacks on AI systems.</a>
+## Past Projects
 * <a href="https://research.google/blog/protecting-users-with-differentially-private-synthetic-training-data/">Protecting users with differentially private synthetic training data.</a>
+* <a href="https://security.googleblog.com/2025/01/how-we-estimate-risk-from-prompt.html">How we estimate the risk from prompt injection attacks on AI systems.</a>
 
 ## Papers
 * <a href="https://scholar.google.com/citations?user=kgvqq-8AAAAJ">Google Scholar page.</a>
